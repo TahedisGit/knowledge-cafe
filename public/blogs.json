@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+    "title": "The Mystery of the Lost Key",
+    "author": "John Smith",
+    "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
+    "hashtags": ["Mystery", "Adventure", "Puzzle"],
+    "reading_time": "3"
+  },
+  {
+    "id": 2,
+    "cover_img": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+    "title": "A Journey Through Time",
+    "author": "Emily Davis",
+    "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
+    "hashtags": ["Science Fiction", "Time Travel", "Adventure"],
+    "reading_time": "5"
+  },
+  {
+    "id": 3,
+    "cover_img": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+    "title": "The Culinary Chronicles",
+    "author": "Alice Johnson",
+    "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
+    "hashtags": ["Cooking", "Recipes", "Food"],
+    "reading_time": "2.5"
+  },
+  {
+    "id": 4,
+    "cover_img": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+    "title": "In Search of Lost Treasures",
+    "author": "David Anderson",
+    "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
+    "hashtags": ["Treasure Hunting", "Adventure", "History"],
+    "reading_time": "4"
+  },
+  {
+    "id": 5,
+    "cover_img": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+    "title": "The Art of Painting",
+    "author": "Sophia Lee",
+    "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
+    "hashtags": ["Art", "Painting", "Creativity"],
+    "reading_time": "2"
+  }
+]
