@@ -8,7 +8,7 @@ export default function Blog({ blog, handleAddToBookmarks }) {
   return (
     <div className="mb-20">
       <img
-        className="w-full mb-4 rounded-md"
+        className="w-full h-[350px] mb-4 rounded-md"
         src={cover_img}
         alt={`cover picture of ${title}`}
       />
@@ -24,7 +24,7 @@ export default function Blog({ blog, handleAddToBookmarks }) {
         <div>
           <span>{reading_time} min read</span>
           <button
-            onClick={handleAddToBookmarks}
+            onClick={() => handleAddToBookmarks(blog)}
             className="ml-2 text-2xl text-red-500"
           >
             <FaBookmark></FaBookmark>
