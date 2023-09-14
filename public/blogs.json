@@ -6,7 +6,7 @@
     "author": "John Smith",
     "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
     "hashtags": ["Mystery", "Adventure", "Puzzle"],
-    "reading_time": "3"
+    "reading_time": 3
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "author": "Emily Davis",
     "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
     "hashtags": ["Science Fiction", "Time Travel", "Adventure"],
-    "reading_time": "5"
+    "reading_time": 5
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "author": "Alice Johnson",
     "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
     "hashtags": ["Cooking", "Recipes", "Food"],
-    "reading_time": "2.5"
+    "reading_time": 2.5
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "author": "David Anderson",
     "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
     "hashtags": ["Treasure Hunting", "Adventure", "History"],
-    "reading_time": "4"
+    "reading_time": 4
   },
   {
     "id": 5,
@@ -42,6 +42,6 @@
     "author": "Sophia Lee",
     "author_img": "https://www.esri.com/arcgis-blog/wp-content/uploads/2018/04/Profile.jpg",
     "hashtags": ["Art", "Painting", "Creativity"],
-    "reading_time": "2"
+    "reading_time": 2
   }
 ]

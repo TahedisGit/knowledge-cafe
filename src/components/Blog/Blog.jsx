@@ -2,9 +2,9 @@ import React from "react";
 import PropTypes from "prop-types";
 import { FaBookmark } from "react-icons/fa";
 
-export default function Blog({ blog, handleAddToBookmarks }) {
-  const { title, cover_img, reading_time, author, author_img, hashtags } = blog;
-  console.log(blog);
+export default function Blog({ blog, handleAddToBookmarks, handleMarkAsRead }) {
+  const { id, title, cover_img, reading_time, author, author_img, hashtags } =
+    blog;
   return (
     <div className="mb-20">
       <img
@@ -42,6 +42,12 @@ export default function Blog({ blog, handleAddToBookmarks }) {
           </span>
         ))}
       </p>
+      <button
+        onClick={() => handleMarkAsRead(id, blog.reading_time)}
+        className="mt-2 text-purple-500 underline font-bold"
+      >
+        Mark as read
+      </button>
     </div>
   );
 }
